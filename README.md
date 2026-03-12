@@ -1,3 +1,6 @@
+# Overview
+This repository contains a Java Information Theory coursework project focused on grayscale BMP image analysis. It compares a reference image against candidate images using cross-correlation, generates histograms and descriptive statistics, compresses and restores images with Huffman coding, and studies noisy channels through conditional probability matrices and noise estimation. The project assets and generated outputs document the full workflow used to identify the image most similar to the original "Will" photograph and analyze its information-theoretic properties.
+
 # Teoría de la Información
 ## Trabajo Práctico Especial
 
